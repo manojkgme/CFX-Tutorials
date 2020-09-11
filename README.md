@@ -30,10 +30,9 @@ Once the simulation is setup properly, this can be run either on a local machine
 Video sets  
 [Importing the mesh](https://youtu.be/eAVCM4tiLPI)  
 [Specifying the boundary](https://youtu.be/UcC1fhXsf_M)  
-[Setting ]
-[video 8]
+[Setting up and running the simulation](https://youtu.be/2CGfk6IPiuo)  
 6. **Post processing the results**  
 The results from the solver are post processed using the CFD post software. The software also handles visualization and manipulation.<br />
 Video sets  
-[video 9]
+[Post processing the results](https://youtu.be/rb3Y0fCHCuE)
 [video 10]
