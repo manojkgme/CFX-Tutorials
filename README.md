@@ -29,6 +29,5 @@ Once the simulation is setup properly, this can be run either on a local machine
 [Specifying the boundary](https://youtu.be/UcC1fhXsf_M)  
 [Setting up and running the simulation](https://youtu.be/2CGfk6IPiuo)  
 6. **Post processing the results**  
-The results from the solver are post processed using the CFD post software. The software also handles visualization and manipulation.<br />  
+The results from the solver are post processed using the CFD post software. The software also handles visualization and manipulation.<br />
 [Post processing the results](https://youtu.be/rb3Y0fCHCuE)
-[video 10]
