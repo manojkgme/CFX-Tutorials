@@ -28,7 +28,9 @@ Video sets
 Here, the mesh is imported into the solver and the analysis type is specified. In a CFD simulation, the fluids and boundary conditions are specified at this stage along with various simplified physics approximations and order of various solvers. The data management aspects and controls for the solver are also specified at this stage.  
 Once the simulation is setup properly, this can be run either on a local machine or a server/High Performace Computing (HPC) facility.<br />
 Video sets  
-[video 7]
+[Importing the mesh](https://youtu.be/eAVCM4tiLPI)  
+[Specifying the boundary](https://youtu.be/UcC1fhXsf_M)  
+[Setting ]
 [video 8]
 6. **Post processing the results**  
 The results from the solver are post processed using the CFD post software. The software also handles visualization and manipulation.<br />
