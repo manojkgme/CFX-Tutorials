@@ -7,7 +7,7 @@ Any computational fluid dynamics (CFD) simulation involves the following stages.
 
 1. **Establishing/Understanding the domain to be simulated.**  
 In this stage, the physical area/region to be simulated in considered. It is important to have a larger outlook at this stage. The actual scale of the physical process, various regions of interest, measurement locations etc, are identified and estiblished at this stage.<br />
-Video sets
+Video sets  
 [video 0]
 2. **Determining/Specifying the area and physics to be simulated.**  
 In many cases, during simulation we can get away with simulating only a part of the physical domain. For example, in the case of a large wave flume that is 30.0 m long, we might not have to simulate the entire physical domain in very high resolution to study a process/event. Instead a small area can be simulated by adopting techniques such as weak coupling and system modelling. By using these techniques the simulation physics and domain can be optimized.<br /> 
