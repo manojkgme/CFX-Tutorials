@@ -1,5 +1,5 @@
 # CFX Tutorials
- Tutorials created for the ocean engineering under graduate students. The tutorial details different stages involved in the simulation of wave structure interaction using the CFX software in the ANSYS CFD Suite. Two different problems are considered in this tutorial.
+ Tutorials created for the ocean engineering under graduate students to introduce the cfd software suite from ANSYS Inc. The tutorial details different stages involved in the simulation of wave structure interaction using the CFX software in the ANSYS CFD Suite. Two different problems are considered in this tutorial. The tuorial is created using the ANSYS Inc Academic Research License available to students and researchers at Indian Institute of Technology Madras, Chennai,
 1. **Wave interaction with horizontal plate.**-[support files](https://github.com/manojkgme/CFX-Tutorials/blob/master/Tutorial-1/)
 2. **Wave interaction with cylinder.**
 
